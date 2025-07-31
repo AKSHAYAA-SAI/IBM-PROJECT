@@ -18,7 +18,7 @@ other critical texts that may not originate from qualified professionals. This s
 not only supports educators in upholding academic integrity but also assists legal 
 professionals in maintaining the authenticity and reliability of formal documentation.
 # PROPOSED SOLUTION
- 1 . Data Collection
+ # 1 . Data Collection
  •Use the PAN Corpusfor 
 structured plagiarism 
 examples.
@@ -28,7 +28,8 @@ examples.
 documents(academic or 
 legal) with clear 
 classifications
- 2. Data Preprocessing
+
+ # 2. Data Preprocessing
  •Clean and normalizetext 
 (remove stopwords, 
 punctuation).
@@ -38,7 +39,8 @@ training.
  •Extract featuresusing TF-IDF 
 or embeddings for 
 meaningful input.
- 3. Machine Learning Algorithm 
+
+# 3. Machine Learning Algorithm 
 (IBM Watsonx.ai AutoAI)
  •Leverage AutoAIto auto
 select and train the best 
@@ -49,7 +51,8 @@ and hyperparameter tuning
  •Choose the optimal model 
 based on F1-score and 
 precision
-4. Deployment
+
+# 4. Deployment
  •Deploy the model via 
 Watsonx.ai as an API 
 endpoint.
@@ -59,7 +62,8 @@ documents.
  •Enable real-time predictions
  for academic or legal input 
 detection.
- 5. Evaluation
+
+ # 5. Evaluation
  •Use accuracy, precision, 
 recall, and F1-scoreto 
 assess performance.
@@ -69,7 +73,8 @@ misclassifications.
  •Ensure transparency and 
 fairnessusing Watson 
 OpenScale.
- 6.Results.
+
+ # 6.Results.
  •Achieved high classification 
 accuracy(typically 90%+ 
 using AutoAI) in 
