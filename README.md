@@ -22,8 +22,10 @@ professionals in maintaining the authenticity and reliability of formal document
  •Use the PAN Corpusfor 
 structured plagiarism 
 examples.
+
  •Generate AI-written content
  using tools like ChatGPT.
+ 
  •Include human-labeled 
 documents(academic or 
 legal) with clear 
@@ -33,9 +35,11 @@ classifications
  •Clean and normalizetext 
 (remove stopwords, 
 punctuation).
+
  •Encode labels(Original, AI
 Generated, etc.) for model 
 training.
+
  •Extract featuresusing TF-IDF 
 or embeddings for 
 meaningful input.
@@ -45,9 +49,11 @@ meaningful input.
  •Leverage AutoAIto auto
 select and train the best 
 models.
+
  •Perform feature engineering 
 and hyperparameter tuning
  automatically.
+ 
  •Choose the optimal model 
 based on F1-score and 
 precision
@@ -56,9 +62,11 @@ precision
  •Deploy the model via 
 Watsonx.ai as an API 
 endpoint.
+
  •Integrate with a simple UIfor 
 users to upload and check 
 documents.
+
  •Enable real-time predictions
  for academic or legal input 
 detection.
@@ -67,9 +75,11 @@ detection.
  •Use accuracy, precision, 
 recall, and F1-scoreto 
 assess performance.
+
  •Visualize results using a 
 confusion matrixto spot 
 misclassifications.
+
  •Ensure transparency and 
 fairnessusing Watson 
 OpenScale.
@@ -81,6 +91,7 @@ using AutoAI) in
 distinguishing between 
 original, AI-generated, and 
 plagiarized content.
+
  •Successfully detected AI
 generated legal and 
 academic documentswith 
