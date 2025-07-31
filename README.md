@@ -114,6 +114,8 @@ score.
  1. The trained model compares new submission pairs (original vs. submitted text) to predict labels like AI_Generated or Plagiarized.
  2. Real-time document input via an app or API is processed instantly, providing a prediction along with confidence scores.
 # RESULT
+<img width="1887" height="909" alt="Screenshot 2025-07-23 194638" src="https://github.com/user-attachments/assets/f2fa9a1d-c5de-4c06-85b2-6aadf228481f" />
+
 <img width="1915" height="911" alt="Screenshot 2025-07-24 213108" src="https://github.com/user-attachments/assets/d0f0d864-a289-4d6f-9d7b-6e271a0dfbd7" />
 
 <img width="1915" height="906" alt="Screenshot 2025-07-24 213047" src="https://github.com/user-attachments/assets/4cbc3f03-8414-47e3-aa55-e48cb4ab4324" />
@@ -123,6 +125,8 @@ score.
 <img width="1916" height="904" alt="Screenshot 2025-07-24 212834" src="https://github.com/user-attachments/assets/a0de6ba2-e5fa-4b48-a907-a12271dfb2d6" />
 
 <img width="1915" height="909" alt="Screenshot 2025-07-24 212524" src="https://github.com/user-attachments/assets/c2d5abc4-185f-4cc0-bc64-4165dcd80abc" />
+
+<img width="1904" height="907" alt="Screenshot 2025-07-23 194730" src="https://github.com/user-attachments/assets/a64f47ee-16a3-4d8b-9947-897cf86e4a95" />
 
 # CONCLUSION
   This project presents an AI-powered plagiarism and document authenticity detection system 
