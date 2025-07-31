@@ -170,13 +170,18 @@ authenticity across various fields
 # REFERENCES
  •PAN Plagiarism Corpus– Webis Group, https://pan.webis.de/clef.html
  (Dataset for plagiarism detection research)
+ 
  •IBM Watsonx.ai Documentation– IBM, https://www.ibm.com/cloud/watsonx-ai
  (Used for building, training, and deploying AI models with AutoAI)
+ 
  •Potthast, M., et al. (2010). Evaluating plagiarism detection – PAN'10 Lab overview. CLEF.
  (Research work outlining methods in plagiarism detection)
+ 
  •Scikit-learn Documentation– https://scikit-learn.org
  (Library used for data preprocessing and ML experimentation)
+ 
  •ChatGPT by OpenAI– https://openai.com/chatgpt
  (Used to generate AI-written text samples for training and testing)
+ 
  •Alzahrani, S. M., Salim, N., & Abraham, A. (2012). Understanding plagiarism linguistic patterns, 
 textual features, and detection methods. IEEE Transactions on Systems, Man, and Cybernetics
