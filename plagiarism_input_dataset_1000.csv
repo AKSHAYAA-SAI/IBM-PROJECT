@@ -1,0 +1,1001 @@
+id,original_text,submitted_text,label,source,instructor_feedback
+1,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Strong match
+2,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Too vague
+3,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,NA
+4,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Too vague
+5,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Accurate paraphrase
+6,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,NA
+7,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,NA
+8,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Highly similar
+9,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Strong match
+10,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,NA
+11,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Well-written
+12,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+13,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Well-written
+14,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+15,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,NA
+16,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Strong match
+17,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Accurate paraphrase
+18,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Highly similar
+19,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Highly similar
+20,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,AI_Generated,ChatGPT,Accurate paraphrase
+21,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Too vague
+22,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Accurate paraphrase
+23,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Strong match
+24,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,NA
+25,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+26,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Well-written
+27,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,Human_Paraphrase,PAN,Well-written
+28,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Too vague
+29,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,NA
+30,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Accurate paraphrase
+31,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Accurate paraphrase
+32,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+33,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Too vague
+34,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,AI_Generated,ChatGPT,NA
+35,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Highly similar
+36,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,Too vague
+37,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Well-written
+38,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Too vague
+39,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,NA
+40,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,Highly similar
+41,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Highly similar
+42,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,Human_Paraphrase,PAN,Strong match
+43,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+44,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,NA
+45,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Strong match
+46,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Highly similar
+47,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Too vague
+48,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Well-written
+49,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,Highly similar
+50,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Strong match
+51,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,Accurate paraphrase
+52,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,NA
+53,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+54,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Highly similar
+55,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+56,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+57,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Strong match
+58,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Accurate paraphrase
+59,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Well-written
+60,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Too vague
+61,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Well-written
+62,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+63,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Too vague
+64,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Well-written
+65,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+66,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Highly similar
+67,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Well-written
+68,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Well-written
+69,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,NA
+70,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,NA
+71,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Strong match
+72,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,NA
+73,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Highly similar
+74,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Strong match
+75,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,NA
+76,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+77,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+78,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Well-written
+79,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,NA
+80,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Too vague
+81,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,NA
+82,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,NA
+83,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+84,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+85,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,Accurate paraphrase
+86,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,NA
+87,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Strong match
+88,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Too vague
+89,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Well-written
+90,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Highly similar
+91,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+92,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,NA
+93,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,AI_Generated,ChatGPT,Highly similar
+94,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,NA
+95,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Strong match
+96,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,NA
+97,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Highly similar
+98,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Highly similar
+99,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,NA
+100,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Strong match
+101,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Well-written
+102,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Highly similar
+103,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Well-written
+104,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Highly similar
+105,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Well-written
+106,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,NA
+107,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Highly similar
+108,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Well-written
+109,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+110,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Too vague
+111,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Too vague
+112,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,NA
+113,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Too vague
+114,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Too vague
+115,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Accurate paraphrase
+116,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Highly similar
+117,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Well-written
+118,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+119,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Strong match
+120,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Accurate paraphrase
+121,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,AI_Generated,ChatGPT,Highly similar
+122,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,NA
+123,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Highly similar
+124,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Highly similar
+125,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Strong match
+126,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Highly similar
+127,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Strong match
+128,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+129,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Well-written
+130,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Highly similar
+131,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,NA
+132,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Well-written
+133,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Strong match
+134,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Highly similar
+135,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,Human_Paraphrase,PAN,Accurate paraphrase
+136,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Too vague
+137,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Accurate paraphrase
+138,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,NA
+139,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Well-written
+140,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,NA
+141,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Accurate paraphrase
+142,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Highly similar
+143,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,NA
+144,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+145,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Too vague
+146,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Strong match
+147,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Well-written
+148,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,NA
+149,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,NA
+150,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Strong match
+151,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Strong match
+152,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Highly similar
+153,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Well-written
+154,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Accurate paraphrase
+155,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Too vague
+156,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,AI_Generated,ChatGPT,NA
+157,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Accurate paraphrase
+158,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Too vague
+159,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Accurate paraphrase
+160,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Highly similar
+161,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Strong match
+162,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,Accurate paraphrase
+163,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Too vague
+164,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,NA
+165,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Highly similar
+166,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+167,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,NA
+168,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Strong match
+169,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Too vague
+170,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+171,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Too vague
+172,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,NA
+173,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Too vague
+174,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Accurate paraphrase
+175,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Well-written
+176,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Accurate paraphrase
+177,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,Highly similar
+178,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Well-written
+179,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,Well-written
+180,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,Human_Paraphrase,PAN,Strong match
+181,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Accurate paraphrase
+182,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Strong match
+183,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Accurate paraphrase
+184,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Well-written
+185,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,Highly similar
+186,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Accurate paraphrase
+187,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+188,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Strong match
+189,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+190,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,Human_Paraphrase,PAN,Highly similar
+191,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Highly similar
+192,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Highly similar
+193,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Well-written
+194,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Accurate paraphrase
+195,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,Human_Paraphrase,PAN,Well-written
+196,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Too vague
+197,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+198,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Highly similar
+199,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+200,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Too vague
+201,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Well-written
+202,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,NA
+203,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Highly similar
+204,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,AI_Generated,ChatGPT,Accurate paraphrase
+205,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+206,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,NA
+207,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Strong match
+208,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,NA
+209,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Accurate paraphrase
+210,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Well-written
+211,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Too vague
+212,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Highly similar
+213,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Too vague
+214,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Well-written
+215,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Accurate paraphrase
+216,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Too vague
+217,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Too vague
+218,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Well-written
+219,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,Human_Paraphrase,PAN,Strong match
+220,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Strong match
+221,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+222,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Well-written
+223,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Too vague
+224,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+225,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,NA
+226,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,AI_Generated,ChatGPT,Well-written
+227,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Well-written
+228,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Too vague
+229,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Too vague
+230,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Well-written
+231,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Strong match
+232,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,NA
+233,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+234,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Strong match
+235,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,NA
+236,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Too vague
+237,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Too vague
+238,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,Strong match
+239,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+240,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Well-written
+241,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,Well-written
+242,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Too vague
+243,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Too vague
+244,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Highly similar
+245,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Too vague
+246,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Too vague
+247,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Too vague
+248,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Highly similar
+249,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Well-written
+250,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Highly similar
+251,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+252,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+253,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,NA
+254,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,Accurate paraphrase
+255,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,NA
+256,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Well-written
+257,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,Strong match
+258,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,NA
+259,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,Too vague
+260,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,NA
+261,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Too vague
+262,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Highly similar
+263,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Well-written
+264,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Well-written
+265,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,NA
+266,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,NA
+267,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Well-written
+268,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Highly similar
+269,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Well-written
+270,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+271,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Too vague
+272,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Highly similar
+273,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Accurate paraphrase
+274,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,NA
+275,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Strong match
+276,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Highly similar
+277,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Too vague
+278,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Strong match
+279,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,Highly similar
+280,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Highly similar
+281,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Well-written
+282,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,Human_Paraphrase,PAN,Well-written
+283,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+284,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Too vague
+285,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,NA
+286,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Strong match
+287,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Highly similar
+288,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,Too vague
+289,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,NA
+290,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+291,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,NA
+292,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Well-written
+293,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Strong match
+294,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Strong match
+295,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Accurate paraphrase
+296,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,Highly similar
+297,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,Accurate paraphrase
+298,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,Human_Paraphrase,PAN,Well-written
+299,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Highly similar
+300,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,NA
+301,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,NA
+302,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Well-written
+303,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Well-written
+304,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,Strong match
+305,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Strong match
+306,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+307,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Highly similar
+308,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Accurate paraphrase
+309,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,Too vague
+310,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Accurate paraphrase
+311,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,NA
+312,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+313,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Highly similar
+314,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,NA
+315,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Accurate paraphrase
+316,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,NA
+317,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Too vague
+318,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Too vague
+319,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Well-written
+320,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,NA
+321,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Too vague
+322,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,Strong match
+323,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Strong match
+324,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,NA
+325,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Strong match
+326,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,Well-written
+327,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Well-written
+328,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+329,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,NA
+330,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Too vague
+331,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Well-written
+332,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Highly similar
+333,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+334,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,NA
+335,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Highly similar
+336,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Too vague
+337,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,Accurate paraphrase
+338,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+339,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Highly similar
+340,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Highly similar
+341,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Well-written
+342,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,NA
+343,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Well-written
+344,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Highly similar
+345,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,NA
+346,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Accurate paraphrase
+347,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,NA
+348,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,NA
+349,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Well-written
+350,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Strong match
+351,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Too vague
+352,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Well-written
+353,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+354,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Too vague
+355,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Accurate paraphrase
+356,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,Accurate paraphrase
+357,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Highly similar
+358,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Strong match
+359,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Too vague
+360,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Accurate paraphrase
+361,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Accurate paraphrase
+362,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+363,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Too vague
+364,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Too vague
+365,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,Human_Paraphrase,PAN,Strong match
+366,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Accurate paraphrase
+367,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Well-written
+368,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Too vague
+369,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Well-written
+370,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,Human_Paraphrase,PAN,Strong match
+371,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,Too vague
+372,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+373,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Accurate paraphrase
+374,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,Highly similar
+375,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+376,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Too vague
+377,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Accurate paraphrase
+378,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Too vague
+379,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,Too vague
+380,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Too vague
+381,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Well-written
+382,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Strong match
+383,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+384,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Accurate paraphrase
+385,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Highly similar
+386,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,AI_Generated,ChatGPT,Highly similar
+387,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,NA
+388,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,Too vague
+389,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Strong match
+390,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Well-written
+391,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+392,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,NA
+393,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Strong match
+394,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+395,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Accurate paraphrase
+396,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Accurate paraphrase
+397,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,NA
+398,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Highly similar
+399,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Well-written
+400,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Strong match
+401,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Well-written
+402,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Highly similar
+403,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Well-written
+404,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,Well-written
+405,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Too vague
+406,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Too vague
+407,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,NA
+408,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Accurate paraphrase
+409,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Well-written
+410,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+411,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Accurate paraphrase
+412,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+413,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Accurate paraphrase
+414,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Highly similar
+415,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Accurate paraphrase
+416,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Accurate paraphrase
+417,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Too vague
+418,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Strong match
+419,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+420,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Well-written
+421,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,Well-written
+422,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Accurate paraphrase
+423,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Well-written
+424,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Strong match
+425,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+426,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,Accurate paraphrase
+427,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,Human_Paraphrase,PAN,Too vague
+428,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Highly similar
+429,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,NA
+430,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+431,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+432,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Well-written
+433,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,NA
+434,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,Highly similar
+435,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Strong match
+436,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Highly similar
+437,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,NA
+438,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,Highly similar
+439,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+440,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Highly similar
+441,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Too vague
+442,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Accurate paraphrase
+443,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Strong match
+444,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Highly similar
+445,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Highly similar
+446,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+447,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,AI_Generated,ChatGPT,Highly similar
+448,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,Accurate paraphrase
+449,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Highly similar
+450,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,AI_Generated,ChatGPT,Too vague
+451,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Well-written
+452,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Too vague
+453,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,Strong match
+454,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,Too vague
+455,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Strong match
+456,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Too vague
+457,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Well-written
+458,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Too vague
+459,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+460,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,Human_Paraphrase,PAN,Too vague
+461,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,Human_Paraphrase,PAN,Highly similar
+462,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Strong match
+463,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Highly similar
+464,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Too vague
+465,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Highly similar
+466,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Well-written
+467,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Strong match
+468,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Strong match
+469,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Strong match
+470,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,NA
+471,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Highly similar
+472,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Strong match
+473,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+474,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Too vague
+475,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,Human_Paraphrase,PAN,NA
+476,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,AI_Generated,ChatGPT,NA
+477,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Too vague
+478,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Strong match
+479,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+480,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Highly similar
+481,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Highly similar
+482,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Highly similar
+483,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,NA
+484,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Strong match
+485,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,NA
+486,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Strong match
+487,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Strong match
+488,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Strong match
+489,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Strong match
+490,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+491,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Too vague
+492,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+493,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,NA
+494,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,NA
+495,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,NA
+496,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+497,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Highly similar
+498,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Strong match
+499,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+500,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Well-written
+501,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Strong match
+502,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Accurate paraphrase
+503,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Well-written
+504,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Well-written
+505,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Highly similar
+506,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+507,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,Human_Paraphrase,PAN,Accurate paraphrase
+508,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Too vague
+509,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Highly similar
+510,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Strong match
+511,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,NA
+512,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,NA
+513,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Accurate paraphrase
+514,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Highly similar
+515,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Strong match
+516,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,NA
+517,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Well-written
+518,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Highly similar
+519,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Highly similar
+520,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Highly similar
+521,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Strong match
+522,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Accurate paraphrase
+523,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Strong match
+524,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,AI_Generated,ChatGPT,Highly similar
+525,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Well-written
+526,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Highly similar
+527,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,Too vague
+528,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+529,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+530,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,NA
+531,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Too vague
+532,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Accurate paraphrase
+533,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Highly similar
+534,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,Well-written
+535,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Strong match
+536,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,Human_Paraphrase,PAN,Accurate paraphrase
+537,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Highly similar
+538,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Well-written
+539,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Too vague
+540,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,Strong match
+541,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,NA
+542,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Well-written
+543,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Accurate paraphrase
+544,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Highly similar
+545,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Highly similar
+546,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+547,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Accurate paraphrase
+548,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Strong match
+549,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Strong match
+550,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Highly similar
+551,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Strong match
+552,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+553,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,AI_Generated,ChatGPT,Accurate paraphrase
+554,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,NA
+555,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Highly similar
+556,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Highly similar
+557,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,NA
+558,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Too vague
+559,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,NA
+560,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Strong match
+561,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,Accurate paraphrase
+562,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Highly similar
+563,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,Human_Paraphrase,PAN,Accurate paraphrase
+564,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,AI_Generated,ChatGPT,Well-written
+565,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Strong match
+566,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,NA
+567,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Highly similar
+568,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Accurate paraphrase
+569,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Well-written
+570,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,NA
+571,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,NA
+572,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,NA
+573,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+574,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Strong match
+575,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Highly similar
+576,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+577,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Accurate paraphrase
+578,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Well-written
+579,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Highly similar
+580,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Accurate paraphrase
+581,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,Human_Paraphrase,PAN,Strong match
+582,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Highly similar
+583,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Highly similar
+584,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,Accurate paraphrase
+585,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Strong match
+586,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Accurate paraphrase
+587,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Highly similar
+588,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Well-written
+589,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Highly similar
+590,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Highly similar
+591,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Too vague
+592,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Well-written
+593,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,NA
+594,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+595,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,Human_Paraphrase,PAN,Too vague
+596,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+597,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Too vague
+598,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,Well-written
+599,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,NA
+600,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Too vague
+601,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,NA
+602,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,NA
+603,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Accurate paraphrase
+604,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+605,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Well-written
+606,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Accurate paraphrase
+607,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Highly similar
+608,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Strong match
+609,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,Human_Paraphrase,PAN,NA
+610,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Strong match
+611,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,Accurate paraphrase
+612,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+613,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,Accurate paraphrase
+614,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Too vague
+615,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Accurate paraphrase
+616,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Strong match
+617,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+618,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Accurate paraphrase
+619,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,NA
+620,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Too vague
+621,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Too vague
+622,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+623,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,Strong match
+624,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Strong match
+625,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+626,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Too vague
+627,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+628,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,AI_Generated,ChatGPT,Well-written
+629,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Strong match
+630,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Strong match
+631,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,NA
+632,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+633,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,NA
+634,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,Human_Paraphrase,PAN,NA
+635,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Accurate paraphrase
+636,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Accurate paraphrase
+637,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,NA
+638,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Well-written
+639,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+640,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Highly similar
+641,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Highly similar
+642,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+643,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Strong match
+644,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Well-written
+645,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Well-written
+646,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Highly similar
+647,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,Human_Paraphrase,PAN,NA
+648,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+649,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,NA
+650,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Accurate paraphrase
+651,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,Accurate paraphrase
+652,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Highly similar
+653,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Strong match
+654,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Well-written
+655,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+656,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Highly similar
+657,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Well-written
+658,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Too vague
+659,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Accurate paraphrase
+660,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Well-written
+661,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Too vague
+662,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,NA
+663,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Strong match
+664,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Accurate paraphrase
+665,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Accurate paraphrase
+666,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Highly similar
+667,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+668,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+669,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Well-written
+670,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,NA
+671,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,NA
+672,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+673,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Well-written
+674,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,AI_Generated,ChatGPT,Well-written
+675,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Accurate paraphrase
+676,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,NA
+677,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,NA
+678,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Strong match
+679,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,Well-written
+680,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,Human_Paraphrase,PAN,Well-written
+681,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+682,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Highly similar
+683,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Highly similar
+684,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Well-written
+685,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+686,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Strong match
+687,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Well-written
+688,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+689,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Accurate paraphrase
+690,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Strong match
+691,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,NA
+692,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Highly similar
+693,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+694,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,Highly similar
+695,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Highly similar
+696,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,NA
+697,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Too vague
+698,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Well-written
+699,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+700,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Highly similar
+701,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,Accurate paraphrase
+702,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Strong match
+703,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Well-written
+704,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Accurate paraphrase
+705,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Accurate paraphrase
+706,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Strong match
+707,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Highly similar
+708,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Strong match
+709,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,AI_Generated,ChatGPT,Accurate paraphrase
+710,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Highly similar
+711,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Well-written
+712,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,NA
+713,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,NA
+714,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Well-written
+715,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Well-written
+716,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Too vague
+717,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Strong match
+718,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,Highly similar
+719,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Too vague
+720,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,NA
+721,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Accurate paraphrase
+722,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Too vague
+723,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Well-written
+724,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Highly similar
+725,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Well-written
+726,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Well-written
+727,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,AI_Generated,ChatGPT,NA
+728,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Accurate paraphrase
+729,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Too vague
+730,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,AI_Generated,ChatGPT,Highly similar
+731,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,Human_Paraphrase,PAN,Well-written
+732,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Well-written
+733,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Too vague
+734,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+735,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,NA
+736,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Well-written
+737,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Accurate paraphrase
+738,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,Highly similar
+739,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Too vague
+740,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Strong match
+741,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Strong match
+742,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,Highly similar
+743,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Strong match
+744,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,Human_Paraphrase,PAN,Strong match
+745,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Well-written
+746,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Too vague
+747,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Well-written
+748,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Highly similar
+749,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+750,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Accurate paraphrase
+751,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Accurate paraphrase
+752,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Too vague
+753,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Well-written
+754,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Accurate paraphrase
+755,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Strong match
+756,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Strong match
+757,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Highly similar
+758,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+759,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Accurate paraphrase
+760,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Accurate paraphrase
+761,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Strong match
+762,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,NA
+763,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,NA
+764,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,Highly similar
+765,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,AI_Generated,ChatGPT,Too vague
+766,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,NA
+767,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Well-written
+768,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Too vague
+769,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,Accurate paraphrase
+770,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,NA
+771,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Accurate paraphrase
+772,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Well-written
+773,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,AI_Generated,ChatGPT,NA
+774,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Strong match
+775,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+776,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Well-written
+777,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Highly similar
+778,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,AI_Generated,ChatGPT,Strong match
+779,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,NA
+780,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Highly similar
+781,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Accurate paraphrase
+782,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,NA
+783,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Highly similar
+784,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Strong match
+785,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Highly similar
+786,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Too vague
+787,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,NA
+788,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,AI_Generated,ChatGPT,Accurate paraphrase
+789,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Too vague
+790,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Well-written
+791,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Strong match
+792,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Accurate paraphrase
+793,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Strong match
+794,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,NA
+795,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Highly similar
+796,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Strong match
+797,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,NA
+798,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Too vague
+799,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,Human_Paraphrase,PAN,Highly similar
+800,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Too vague
+801,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Well-written
+802,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Accurate paraphrase
+803,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Well-written
+804,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Too vague
+805,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Too vague
+806,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Highly similar
+807,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Too vague
+808,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+809,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Strong match
+810,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,Too vague
+811,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Highly similar
+812,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,NA
+813,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,NA
+814,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Highly similar
+815,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,AI_Generated,ChatGPT,Well-written
+816,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Accurate paraphrase
+817,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Highly similar
+818,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Too vague
+819,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Accurate paraphrase
+820,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Strong match
+821,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Strong match
+822,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Strong match
+823,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+824,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Too vague
+825,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Strong match
+826,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Strong match
+827,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+828,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Highly similar
+829,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Too vague
+830,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Highly similar
+831,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Accurate paraphrase
+832,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,NA
+833,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,Strong match
+834,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Highly similar
+835,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+836,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,NA
+837,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Too vague
+838,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Well-written
+839,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,Well-written
+840,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Well-written
+841,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+842,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Too vague
+843,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Accurate paraphrase
+844,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Too vague
+845,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Highly similar
+846,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Too vague
+847,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Highly similar
+848,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,Well-written
+849,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Highly similar
+850,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+851,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Well-written
+852,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+853,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Accurate paraphrase
+854,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Strong match
+855,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Too vague
+856,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,Accurate paraphrase
+857,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Well-written
+858,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,NA
+859,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Highly similar
+860,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,NA
+861,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,Well-written
+862,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Accurate paraphrase
+863,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+864,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Strong match
+865,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Well-written
+866,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Highly similar
+867,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Well-written
+868,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Accurate paraphrase
+869,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Too vague
+870,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+871,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,Highly similar
+872,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Well-written
+873,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Highly similar
+874,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Too vague
+875,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,Human_Paraphrase,PAN,Too vague
+876,Climate change is driven by greenhouse gases.,Global warming is caused by excess carbon emissions.,Human_Paraphrase,PAN,Too vague
+877,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Well-written
+878,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Well-written
+879,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Strong match
+880,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Strong match
+881,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Too vague
+882,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Strong match
+883,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,Strong match
+884,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Strong match
+885,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Accurate paraphrase
+886,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,NA
+887,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,Accurate paraphrase
+888,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Highly similar
+889,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Strong match
+890,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,NA
+891,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Well-written
+892,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Well-written
+893,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Strong match
+894,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,NA
+895,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Too vague
+896,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Well-written
+897,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+898,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Strong match
+899,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Highly similar
+900,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Strong match
+901,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Accurate paraphrase
+902,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Well-written
+903,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,AI_Generated,ChatGPT,Well-written
+904,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Well-written
+905,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Well-written
+906,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,NA
+907,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Highly similar
+908,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,Too vague
+909,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Too vague
+910,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,Human_Paraphrase,PAN,Strong match
+911,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Strong match
+912,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Too vague
+913,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Strong match
+914,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,NA
+915,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Well-written
+916,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Strong match
+917,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Highly similar
+918,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,Well-written
+919,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Accurate paraphrase
+920,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,NA
+921,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Highly similar
+922,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,Strong match
+923,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,NA
+924,Climate change is driven by greenhouse gases.,Greenhouse gases are the main reason for climate change.,AI_Generated,ChatGPT,Well-written
+925,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Strong match
+926,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Accurate paraphrase
+927,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+928,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,Too vague
+929,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Highly similar
+930,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Accurate paraphrase
+931,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,NA
+932,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Well-written
+933,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Strong match
+934,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,AI_Generated,ChatGPT,NA
+935,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,NA
+936,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Too vague
+937,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,NA
+938,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,Human_Paraphrase,PAN,NA
+939,Blockchain is a secure and decentralized record system.,Decentralized ledgers like blockchain reduce fraud.,Human_Paraphrase,PAN,NA
+940,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+941,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,NA
+942,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Highly similar
+943,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Too vague
+944,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Too vague
+945,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Well-written
+946,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,AI_Generated,ChatGPT,Too vague
+947,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Well-written
+948,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,AI_Generated,ChatGPT,Too vague
+949,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,Well-written
+950,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Well-written
+951,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Highly similar
+952,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,Human_Paraphrase,PAN,Strong match
+953,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Too vague
+954,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Well-written
+955,Machine learning enables systems to learn from data.,Systems evolve by identifying patterns in datasets.,Human_Paraphrase,PAN,NA
+956,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,Human_Paraphrase,PAN,Well-written
+957,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Highly similar
+958,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+959,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+960,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Well-written
+961,Machine learning enables systems to learn from data.,Algorithms improve by training on large amounts of data.,Human_Paraphrase,PAN,Too vague
+962,Artificial intelligence is transforming modern industries.,AI is changing the way businesses operate.,AI_Generated,ChatGPT,Well-written
+963,Artificial intelligence is transforming modern industries.,Industries are adapting rapidly due to artificial intelligence.,Human_Paraphrase,PAN,Too vague
+964,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Accurate paraphrase
+965,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Too vague
+966,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,Human_Paraphrase,PAN,Too vague
+967,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Too vague
+968,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,Human_Paraphrase,PAN,NA
+969,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Original,Student_Assigned,Well-written
+970,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Too vague
+971,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Verbatim_Plagiarism,PAN,NA
+972,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,NA
+973,Photosynthesis converts light energy into chemical energy.,Photosynthesis converts light energy into chemical energy.,Original,Student_Assigned,Accurate paraphrase
+974,Artificial intelligence is transforming modern industries.,AI technologies are revolutionizing modern companies.,AI_Generated,ChatGPT,Well-written
+975,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,Well-written
+976,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+977,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+978,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Well-written
+979,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Well-written
+980,Machine learning enables systems to learn from data.,Data helps machines learn through machine learning.,AI_Generated,ChatGPT,Accurate paraphrase
+981,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+982,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,Too vague
+983,Climate change is driven by greenhouse gases.,Climate change is driven by greenhouse gases.,Verbatim_Plagiarism,PAN,NA
+984,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+985,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,AI_Generated,ChatGPT,Strong match
+986,Blockchain is a secure and decentralized record system.,Blockchain keeps data safe through distributed records.,Human_Paraphrase,PAN,Well-written
+987,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,NA
+988,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,AI_Generated,ChatGPT,Accurate paraphrase
+989,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,NA
+990,Blockchain is a secure and decentralized record system.,The blockchain system secures transactions without central control.,Human_Paraphrase,PAN,Highly similar
+991,Photosynthesis converts light energy into chemical energy.,Plants use photosynthesis to make their own food.,Human_Paraphrase,PAN,Too vague
+992,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Original,Student_Assigned,Accurate paraphrase
+993,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Strong match
+994,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Verbatim_Plagiarism,PAN,Highly similar
+995,Photosynthesis converts light energy into chemical energy.,Photosynthesis creates energy from sunlight in plants.,AI_Generated,ChatGPT,Highly similar
+996,Photosynthesis converts light energy into chemical energy.,Light energy is turned into sugar in photosynthesis.,Human_Paraphrase,PAN,NA
+997,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,Highly similar
+998,Artificial intelligence is transforming modern industries.,Artificial intelligence is transforming modern industries.,Verbatim_Plagiarism,PAN,NA
+999,Climate change is driven by greenhouse gases.,The atmosphere traps heat due to gas emissions.,AI_Generated,ChatGPT,Strong match
+1000,Blockchain is a secure and decentralized record system.,Blockchain is a secure and decentralized record system.,Original,Student_Assigned,NA

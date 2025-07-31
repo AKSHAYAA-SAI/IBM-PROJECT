@@ -1,0 +1,101 @@
+id,original_text,submitted_text,label,source,instructor_feedback
+1,The heart pumps blood through the circulatory system.,The heart circulates blood throughout the body.,Human_Paraphrase,PAN,Good understanding
+2,The heart pumps blood through the circulatory system.,The heart circulates blood throughout the body.,AI_Generated,ChatGPT,Accurate paraphrase
+3,The heart pumps blood through the circulatory system.,The heart pumps blood through the circulatory system.,Original,Student_Assigned,Excellent clarity
+4,The heart pumps blood through the circulatory system.,The heart pumps blood through the circulatory system.,Original,Student_Assigned,Excellent clarity
+5,The heart pumps blood through the circulatory system.,The heart pumps blood through the circulatory system.,Original,Student_Assigned,Inconsistent explanation
+6,The heart pumps blood through the circulatory system.,Blood is moved by the heart through the vascular system.,AI_Generated,ChatGPT,Inconsistent explanation
+7,The heart pumps blood through the circulatory system.,The heart circulates blood throughout the body.,AI_Paraphrase,AI_Generated,Rephrased well but vague
+8,The heart pumps blood through the circulatory system.,The heart circulates blood throughout the body.,Human_Paraphrase,PAN,Good understanding
+9,The heart pumps blood through the circulatory system.,Blood is moved by the heart through the vascular system.,AI_Generated,ChatGPT,Inconsistent explanation
+10,The heart pumps blood through the circulatory system.,The heart pumps blood through the circulatory system.,Original,Student_Assigned,Good understanding
+11,Machine learning enables systems to learn from data.,Machine learning helps computers improve from experience.,AI_Generated,ChatGPT,Rephrased well but vague
+12,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,NA
+13,Machine learning enables systems to learn from data.,Systems can learn patterns from data using machine learning.,AI_Paraphrase,AI_Generated,Excellent clarity
+14,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Original,Student_Assigned,Inconsistent explanation
+15,Machine learning enables systems to learn from data.,Machine learning enables systems to learn from data.,Verbatim_Plagiarism,PAN,Rephrased well but vague
+16,Machine learning enables systems to learn from data.,Systems can learn patterns from data using machine learning.,AI_Paraphrase,AI_Generated,Excellent clarity
+17,Machine learning enables systems to learn from data.,Machine learning helps computers improve from experience.,Human_Paraphrase,PAN,NA
+18,Machine learning enables systems to learn from data.,ML allows machines to evolve through data analysis.,AI_Paraphrase,AI_Generated,Needs deeper analysis
+19,Machine learning enables systems to learn from data.,Machine learning helps computers improve from experience.,AI_Generated,ChatGPT,Needs deeper analysis
+20,Machine learning enables systems to learn from data.,Machine learning helps computers improve from experience.,AI_Paraphrase,AI_Generated,Excellent clarity
+21,Climate change is caused by greenhouse gas emissions.,The climate is changing due to gas emissions.,AI_Generated,ChatGPT,Excellent clarity
+22,Climate change is caused by greenhouse gas emissions.,Greenhouse gases contribute to climate change.,Human_Paraphrase,PAN,Inconsistent explanation
+23,Climate change is caused by greenhouse gas emissions.,Emissions from gases lead to global climate issues.,AI_Generated,ChatGPT,NA
+24,Climate change is caused by greenhouse gas emissions.,Emissions from gases lead to global climate issues.,Human_Paraphrase,PAN,Excellent clarity
+25,Climate change is caused by greenhouse gas emissions.,The climate is changing due to gas emissions.,AI_Generated,ChatGPT,Needs deeper analysis
+26,Climate change is caused by greenhouse gas emissions.,Climate change is caused by greenhouse gas emissions.,Verbatim_Plagiarism,PAN,Good understanding
+27,Climate change is caused by greenhouse gas emissions.,Climate change is caused by greenhouse gas emissions.,Original,Student_Assigned,Needs deeper analysis
+28,Climate change is caused by greenhouse gas emissions.,Climate change is caused by greenhouse gas emissions.,Verbatim_Plagiarism,PAN,Needs deeper analysis
+29,Climate change is caused by greenhouse gas emissions.,Climate change is caused by greenhouse gas emissions.,Verbatim_Plagiarism,PAN,Needs deeper analysis
+30,Climate change is caused by greenhouse gas emissions.,Emissions from gases lead to global climate issues.,AI_Generated,ChatGPT,Accurate paraphrase
+31,The economic crisis affected global trade significantly.,Trade across nations declined due to the economic slump.,AI_Paraphrase,AI_Generated,Needs deeper analysis
+32,The economic crisis affected global trade significantly.,Global trade was heavily impacted by the financial crisis.,AI_Generated,ChatGPT,Accurate paraphrase
+33,The economic crisis affected global trade significantly.,Trade across nations declined due to the economic slump.,AI_Generated,ChatGPT,Accurate paraphrase
+34,The economic crisis affected global trade significantly.,Trade across nations declined due to the economic slump.,Human_Paraphrase,PAN,Needs deeper analysis
+35,The economic crisis affected global trade significantly.,The economic crisis affected global trade significantly.,Verbatim_Plagiarism,PAN,Inconsistent explanation
+36,The economic crisis affected global trade significantly.,The economic crisis affected global trade significantly.,Verbatim_Plagiarism,PAN,Excellent clarity
+37,The economic crisis affected global trade significantly.,The economic crisis affected global trade significantly.,Verbatim_Plagiarism,PAN,Inconsistent explanation
+38,The economic crisis affected global trade significantly.,The economic crisis affected global trade significantly.,Original,Student_Assigned,Accurate paraphrase
+39,The economic crisis affected global trade significantly.,Global trade was heavily impacted by the financial crisis.,AI_Generated,ChatGPT,Excellent clarity
+40,The economic crisis affected global trade significantly.,Global trade was heavily impacted by the financial crisis.,AI_Paraphrase,AI_Generated,Too generic
+41,Photosynthesis is the process plants use to make food.,Photosynthesis is the process plants use to make food.,Verbatim_Plagiarism,PAN,Good understanding
+42,Photosynthesis is the process plants use to make food.,Photosynthesis is the process plants use to make food.,Verbatim_Plagiarism,PAN,Good understanding
+43,Photosynthesis is the process plants use to make food.,Plants rely on photosynthesis to create their own nourishment.,AI_Generated,ChatGPT,Accurate paraphrase
+44,Photosynthesis is the process plants use to make food.,Photosynthesis is the process plants use to make food.,Verbatim_Plagiarism,PAN,Good understanding
+45,Photosynthesis is the process plants use to make food.,Photosynthesis allows plants to convert light into energy.,AI_Generated,ChatGPT,Rephrased well but vague
+46,Photosynthesis is the process plants use to make food.,Plants rely on photosynthesis to create their own nourishment.,AI_Paraphrase,AI_Generated,NA
+47,Photosynthesis is the process plants use to make food.,Photosynthesis is the process plants use to make food.,Original,Student_Assigned,Good understanding
+48,Photosynthesis is the process plants use to make food.,Plants produce their food using photosynthesis.,AI_Paraphrase,AI_Generated,Good understanding
+49,Photosynthesis is the process plants use to make food.,Plants rely on photosynthesis to create their own nourishment.,Human_Paraphrase,PAN,Needs deeper analysis
+50,Photosynthesis is the process plants use to make food.,Photosynthesis is the process plants use to make food.,Original,Student_Assigned,Excellent clarity
+51,Blockchain is a decentralized ledger technology.,The blockchain system is a decentralized data ledger.,Human_Paraphrase,PAN,Inconsistent explanation
+52,Blockchain is a decentralized ledger technology.,Blockchain stores data across a distributed network.,AI_Paraphrase,AI_Generated,Rephrased well but vague
+53,Blockchain is a decentralized ledger technology.,Blockchain is a decentralized ledger technology.,Original,Student_Assigned,Good understanding
+54,Blockchain is a decentralized ledger technology.,Blockchain is a decentralized ledger technology.,Original,Student_Assigned,Accurate paraphrase
+55,Blockchain is a decentralized ledger technology.,Blockchain is a decentralized ledger technology.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+56,Blockchain is a decentralized ledger technology.,Blockchain is a decentralized ledger technology.,Original,Student_Assigned,Too generic
+57,Blockchain is a decentralized ledger technology.,Blockchain is a decentralized ledger technology.,Original,Student_Assigned,Needs deeper analysis
+58,Blockchain is a decentralized ledger technology.,Blockchain stores data across a distributed network.,AI_Paraphrase,AI_Generated,Inconsistent explanation
+59,Blockchain is a decentralized ledger technology.,Blockchain is a decentralized ledger technology.,Verbatim_Plagiarism,PAN,Too generic
+60,Blockchain is a decentralized ledger technology.,The blockchain system is a decentralized data ledger.,AI_Paraphrase,AI_Generated,Accurate paraphrase
+61,Energy can neither be created nor destroyed.,The conservation of energy principle states energy is constant.,AI_Generated,ChatGPT,Good understanding
+62,Energy can neither be created nor destroyed.,Energy remains conserved in all physical processes.,AI_Generated,ChatGPT,Good understanding
+63,Energy can neither be created nor destroyed.,The conservation of energy principle states energy is constant.,Human_Paraphrase,PAN,Accurate paraphrase
+64,Energy can neither be created nor destroyed.,Energy can neither be created nor destroyed.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+65,Energy can neither be created nor destroyed.,The conservation of energy principle states energy is constant.,Human_Paraphrase,PAN,Good understanding
+66,Energy can neither be created nor destroyed.,Energy can neither be created nor destroyed.,Original,Student_Assigned,Good understanding
+67,Energy can neither be created nor destroyed.,The conservation of energy principle states energy is constant.,Human_Paraphrase,PAN,Excellent clarity
+68,Energy can neither be created nor destroyed.,Energy can neither be created nor destroyed.,Verbatim_Plagiarism,PAN,Too generic
+69,Energy can neither be created nor destroyed.,"Energy cannot be created or destroyed, only transformed.",AI_Paraphrase,AI_Generated,Accurate paraphrase
+70,Energy can neither be created nor destroyed.,"Energy cannot be created or destroyed, only transformed.",AI_Generated,ChatGPT,Needs deeper analysis
+71,Data privacy is a fundamental right in digital society.,Everyone deserves privacy of their data in the digital world.,AI_Generated,ChatGPT,Excellent clarity
+72,Data privacy is a fundamental right in digital society.,Data privacy is a fundamental right in digital society.,Verbatim_Plagiarism,PAN,NA
+73,Data privacy is a fundamental right in digital society.,Protecting data is essential in modern digital life.,AI_Paraphrase,AI_Generated,Good understanding
+74,Data privacy is a fundamental right in digital society.,Protecting data is essential in modern digital life.,AI_Generated,ChatGPT,Rephrased well but vague
+75,Data privacy is a fundamental right in digital society.,Digital users are entitled to data protection.,AI_Paraphrase,AI_Generated,Accurate paraphrase
+76,Data privacy is a fundamental right in digital society.,Digital users are entitled to data protection.,AI_Paraphrase,AI_Generated,Rephrased well but vague
+77,Data privacy is a fundamental right in digital society.,Data privacy is a fundamental right in digital society.,Original,Student_Assigned,Inconsistent explanation
+78,Data privacy is a fundamental right in digital society.,Data privacy is a fundamental right in digital society.,Original,Student_Assigned,Too generic
+79,Data privacy is a fundamental right in digital society.,Protecting data is essential in modern digital life.,Human_Paraphrase,PAN,Accurate paraphrase
+80,Data privacy is a fundamental right in digital society.,Data privacy is a fundamental right in digital society.,Verbatim_Plagiarism,PAN,Inconsistent explanation
+81,The mitochondria is the powerhouse of the cell.,Energy production in cells occurs in mitochondria.,AI_Paraphrase,AI_Generated,Rephrased well but vague
+82,The mitochondria is the powerhouse of the cell.,Cells get their energy from mitochondria.,Human_Paraphrase,PAN,Excellent clarity
+83,The mitochondria is the powerhouse of the cell.,Mitochondria generate energy inside cells.,Human_Paraphrase,PAN,Accurate paraphrase
+84,The mitochondria is the powerhouse of the cell.,Mitochondria generate energy inside cells.,AI_Generated,ChatGPT,Inconsistent explanation
+85,The mitochondria is the powerhouse of the cell.,The mitochondria is the powerhouse of the cell.,Original,Student_Assigned,Rephrased well but vague
+86,The mitochondria is the powerhouse of the cell.,Cells get their energy from mitochondria.,AI_Paraphrase,AI_Generated,Excellent clarity
+87,The mitochondria is the powerhouse of the cell.,Mitochondria generate energy inside cells.,AI_Paraphrase,AI_Generated,NA
+88,The mitochondria is the powerhouse of the cell.,The mitochondria is the powerhouse of the cell.,Verbatim_Plagiarism,PAN,NA
+89,The mitochondria is the powerhouse of the cell.,Mitochondria generate energy inside cells.,Human_Paraphrase,PAN,Excellent clarity
+90,The mitochondria is the powerhouse of the cell.,The mitochondria is the powerhouse of the cell.,Verbatim_Plagiarism,PAN,Accurate paraphrase
+91,Artificial intelligence is transforming every industry.,Artificial intelligence is transforming every industry.,Original,Student_Assigned,Accurate paraphrase
+92,Artificial intelligence is transforming every industry.,Artificial intelligence is changing the face of industry.,AI_Generated,ChatGPT,Excellent clarity
+93,Artificial intelligence is transforming every industry.,AI is revolutionizing industries across the board.,Human_Paraphrase,PAN,Rephrased well but vague
+94,Artificial intelligence is transforming every industry.,Artificial intelligence is changing the face of industry.,AI_Generated,ChatGPT,NA
+95,Artificial intelligence is transforming every industry.,Artificial intelligence is changing the face of industry.,AI_Generated,ChatGPT,Excellent clarity
+96,Artificial intelligence is transforming every industry.,Artificial intelligence is changing the face of industry.,AI_Generated,ChatGPT,Needs deeper analysis
+97,Artificial intelligence is transforming every industry.,Artificial intelligence is changing the face of industry.,AI_Paraphrase,AI_Generated,Accurate paraphrase
+98,Artificial intelligence is transforming every industry.,AI is revolutionizing industries across the board.,AI_Generated,ChatGPT,Good understanding
+99,Artificial intelligence is transforming every industry.,Artificial intelligence is transforming every industry.,Original,Student_Assigned,NA
+100,Artificial intelligence is transforming every industry.,AI is revolutionizing industries across the board.,Human_Paraphrase,PAN,Rephrased well but vague
